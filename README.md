@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cheog0&show_icons=true&theme=tokyonight&locale=kr" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheog0&layout=compact&theme=tokyonight&locale=kr" width="45%" />
+  
 </p>
 
 ---
