@@ -1,3 +1,4 @@
+<h1 align="center">안녕하세요! 👋 설유준입니다</h1>
 
 ---
 
@@ -36,7 +37,6 @@
 ### 🎯 기타
 
 - 🌟 목표: 꾸준히 학습하며 좋은 개발자 되기
-- ☕ 취미: 축구 보기, 골프
 
 <!-- 프로필 꾸미기 참고 출처
 - https://github.com/anuraghazra/github-readme-stats
