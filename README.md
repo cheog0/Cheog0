@@ -2,10 +2,6 @@
 
 ---
 
-### 🌱 현재 배우고 있는 것
-- React, TypeScript, Next.js
-- Git, GitHub, 협업 도구
-
 ### 🔭 관심 있는 분야
 - 사용자 친화적인 UI/UX
 - 웹 퍼포먼스 최적화
@@ -21,14 +17,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub 활동 통계
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheog0&layout=compact&theme=tokyonight&locale=kr" width="45%" />
-</p>
 
 ---
 
